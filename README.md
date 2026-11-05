@@ -46,11 +46,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nassergamale1-sketch&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=nassergamale1-sketch&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
