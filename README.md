@@ -1,48 +1,29 @@
-# 💫 About Me
+# Nasser Gamal
 
-* 🔭 **Currently Building:** Mwasalaty Express — an AI-powered smart mobility platform designed to transform transportation through intelligent systems and data-driven solutions.
-* 👯 **Open to Collaborate:** AI, Machine Learning, Deep Learning, Computer Vision, and ambitious software engineering projects.
-* 🤝 **Interested in:** Building scalable AI solutions, developing advanced ML models, deploying production-ready AI systems, and solving complex real-world challenges.
-* 🌱 **Currently Exploring:** Deep Learning, Computer Vision, MLOps, Generative AI, and Advanced AI Architectures.
-* 💬 **Ask Me About:** Artificial Intelligence, Machine Learning, Python, Deep Learning, AI Engineering, and Smart Mobility Solutions.
-* ⚡ **My Mindset:** I don't just build software — I turn complex real-world problems into intelligent, scalable technology solutions.
+**AI & Machine Learning student at Arab Open University · Founder of Mwasalaty**
 
----
+I build AI and web applications, with projects in smart mobility, computer vision, and education. I also completed *Introduction to AI with Python* at The American University in Cairo.
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nasser.gamal.officail)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nasser.gamall)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nasser-gamal)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nassergamal70)
+[Portfolio](https://github.com/nassergamale1-sketch/nasser-portfolio) · [LinkedIn](https://www.linkedin.com/in/nasser-gamal)
 
----
+## Featured work
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### Mwasalaty Express (مواصلاتي)
 
----
+I founded and built Mwasalaty Express, an AI-powered smart mobility project. It placed **3rd at the TechFront Hackathon** at Arab Open University. I filed a patent application for the project with Egypt’s Academy of Scientific Research and Technology.
 
-## 📊 GitHub Stats
+[Explore Mwasalaty Express](https://github.com/nassergamale1-sketch/Mwasalaty_EX)
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nassergamale1-sketch&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=nassergamale1-sketch&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nassergamale1-sketch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+### Natigaty
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nassergamale1-sketch&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+An Arabic web app for looking up Egyptian secondary school results by seat number or name. The app uses **Next.js**, **PostgreSQL**, and **Redis**, with a batch import pipeline for result files.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[Explore Natigaty](https://github.com/nassergamale1-sketch/natigaty)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nassergamale1-sketch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Tools and interests
+
+- **AI and computer vision** · Python, OpenCV, YOLO, machine learning
+- **Web development** · JavaScript, React, Next.js, Node.js
+- **Data and deployment** · PostgreSQL, Redis, Docker
+
+I’m open to AI and machine learning internships and collaborations, especially in computer vision and smart mobility.
