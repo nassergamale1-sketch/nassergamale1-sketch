@@ -4,7 +4,7 @@
 
 I develop applied AI and web projects in smart mobility, computer vision, and education. I founded Mwasalaty Express and led its development from concept to a hackathon submission.
 
-[Portfolio](https://github.com/nassergamale1-sketch/nasser-portfolio) · [LinkedIn](https://www.linkedin.com/in/nasser-gamal)
+[Portfolio](https://nassergamal.com) · [LinkedIn](https://www.linkedin.com/in/nasser-gamal)
 
 ## Selected Projects
 
