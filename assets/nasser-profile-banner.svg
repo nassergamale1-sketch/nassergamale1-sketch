@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-labelledby="title">
+<title id="title">Nasser Gamal — Applied AI, computer vision and web engineering</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1721"/><stop offset="1" stop-color="#142b32"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M0 32V0H32" stroke="#85dbc8" stroke-opacity=".12" fill="none"/></pattern>
+</defs>
+<rect width="960" height="300" rx="24" fill="url(#bg)"/>
+<path d="M604 1H935Q959 1 959 25V275Q959 299 935 299H604Z" fill="url(#grid)"/>
+<rect x="1" y="1" width="958" height="298" rx="23" fill="none" stroke="#3c6269"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M590 230H670L762 138H918M636 263H746L858 151V56M641 71H703L808 176H918" stroke="#315763" stroke-width="4"/>
+  <path d="M615 192H710L818 84H918" stroke="#6ce1cb" stroke-width="5"/>
+  <path d="M699 247V217L768 148V70" stroke="#ffc77f" stroke-width="4"/>
+</g>
+<g fill="#12262d" stroke-width="4">
+  <circle cx="710" cy="192" r="9" stroke="#6ce1cb"/><circle cx="818" cy="84" r="9" stroke="#6ce1cb"/>
+  <circle cx="768" cy="148" r="9" stroke="#ffc77f"/><circle cx="768" cy="70" r="7" stroke="#ffc77f"/>
+</g>
+<g font-family="system-ui, sans-serif">
+  <text x="52" y="69" fill="#6ce1cb" font-size="19" font-weight="700" letter-spacing="3">APPLIED AI &amp; WEB ENGINEERING</text>
+  <text x="48" y="157" fill="#f2f8f7" font-size="79" font-weight="750">Nasser Gamal</text>
+  <text x="52" y="206" fill="#b9d3d5" font-size="24">Machine Learning · Computer Vision · Smart Mobility</text>
+</g>
+<path d="M53 246H125" stroke="#ffc77f" stroke-width="4" stroke-linecap="round"/>
+</svg>
